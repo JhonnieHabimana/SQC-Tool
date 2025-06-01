@@ -48,10 +48,13 @@ The tool is organized into six interactive tabs:
 - Exports flagged files and summary statistics to CSV.
 - Prepares cleaned data pipeline-ready output for further processing.
 
+## GUI Screenshot
 
-
-## 🚀 Getting Started
+Here's what the final GUI layout looks like:
+<img width="785" alt="GUI image" src="https://github.com/user-attachments/assets/24e91253-22e8-476f-b88e-4c39bed31736" />
 
 ### Prerequisites
 - Python 3.8+
 - Libraries: `pandas`, `matplotlib`, `tkinter`, `seaborn`, `os`, `glob`
+
+
