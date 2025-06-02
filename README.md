@@ -1,5 +1,4 @@
-<img width="785" alt="GUI image" src="https://github.com/user-attachments/assets/8cbc8421-947c-4b4b-988e-aaeb0d90a8bc" /># SQC-Tool
-Signal Quality Control (SQC) GUI built from scratch for time-series data inspection and cleaning. 
+**Signal Quality Control** (SQC) GUI built from scratch for time-series data inspection and cleaning. 
 Initially created remotely and version control done via BitBucket. Transfer to Github done on 01/06/2025
 Features 6 tabs: File Check &amp; View, File Summary, File Re-ordering, Data Analysis, Visualisation Tool, and Generate Report.
 
